@@ -2,7 +2,7 @@
   "name": "react-projekt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jofhatkea.github.io/react-projekt/",
+  "homepage": "https://jofhatkea.github.io/reponame/",
   "dependencies": {
     "@sandstreamdev/react-swipeable-list": "^0.2.1",
     "muicss": "^0.10.0",
