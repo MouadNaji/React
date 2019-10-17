@@ -1,5 +1,11 @@
+@import url("//cdn.muicss.com/mui-0.10.0/css/mui.min.css");
+@import url("//cdn.muicss.com/mui-0.10.0/extra/mui-colors.min.css");
+
 .App {
   text-align: center;
+  background: gray;
+  align-content: center;
+  margin-top: 0;
 }
 
 .App-logo {
@@ -19,4 +25,75 @@
 
 .App-link {
   color: #09d3ac;
+}
+.posts {
+  border: solid gray;
+  width: 36rem;
+  margin-right: 0;
+  background-color: brown;
+  color: white;
+}
+.posts:hover {
+  box-shadow: inset 1px -1px 20px black;
+  transform: rotatey(10deg) ease-in;
+}
+.feed {
+  text-align: center;
+  align-content: center;
+  margin-left: 30vw;
+  margin-right: 30vw;
+}
+.footer {
+  background-color: black;
+  color: white;
+  margin-top: 3rem;
+  margin-bottom: 0;
+  height: 5rem;
+}
+h1 {
+  color: brown;
+  margin-top: 0;
+  padding-top: 1rem;
+}
+button {
+  color: brown;
+}
+button {
+  border-radius: 2rem;
+
+  height: 2rem;
+  background: orange;
+  border-color: orange;
+  color: white;
+}
+.mui-btn {
+  background: orange;
+  color: white;
+}
+.mui-btn:hover {
+  background-color: rgb(255, 184, 53);
+  color: white;
+}
+.SwipeableListItem_contentReturn__2_W7p {
+  background-color: brown;
+  color: green;
+  text-align: center;
+}
+.SwipeableList_swipeableList__3dl6y {
+  background-color: brown;
+  text-align: center;
+}
+.SwipeableListItem_content__1k1mn {
+  text-align: center;
+
+  background-color: brown;
+}
+.eksempel {
+  color: white;
+  background: brown;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  padding-left: 15.8rem;
+  padding-right: 15.8rem;
 }
